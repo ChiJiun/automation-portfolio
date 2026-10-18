@@ -48,7 +48,8 @@ python -m pytest line-booking-bot/tests
 
 ## 聯絡我
 
-- 接案平台：<!-- 填上你的 Tasker / Fiverr 頁面 -->
-- Email：<!-- 填上你的 Email -->
+- 出任務 Tasker：https://www.tasker.com.tw/workroom/gino-lab
+- GitHub：https://github.com/ChiJiun
+- Email：0311gino@gmail.com
 
 技術：Python · pandas · openpyxl · requests · BeautifulSoup · Flask · LINE Messaging API · SQLite · pytest
