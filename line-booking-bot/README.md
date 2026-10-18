@@ -22,6 +22,10 @@ Bot ：🎉 預約成功！預約編號：B00001
 
 完整對話紀錄：[examples/demo-conversation.txt](examples/demo-conversation.txt)
 
+終端機模擬器的實際畫面（不需要 LINE 帳號就能跑；接上 LINE 後，選項會變成聊天室裡的快速回覆按鈕）：
+
+![預約流程](docs/demo-booking.png)
+
 ## 功能
 
 - **預約、查詢、取消**：客人自己完成，取消時店家也會收到通知

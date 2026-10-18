@@ -20,7 +20,13 @@ cd ../scraper-to-csv && python scraper.py --max-pages 2
 cd ../line-booking-bot && python simulator.py
 ```
 
-不想安裝也可以直接看範例輸出：
+不想安裝也可以直接看畫面：
+
+| Excel 自動月報 | 網站資料爬蟲 | LINE 預約機器人 |
+|---|---|---|
+| ![](excel-auto-report/docs/門市比較.png) | ![](scraper-to-csv/docs/demo-run.png) | ![](line-booking-bot/docs/demo-booking.png) |
+
+或下載範例輸出：
 
 - [銷售月報範例.xlsx](excel-auto-report/examples/銷售月報_2026-09.xlsx)
 - [爬蟲輸出範例.csv](scraper-to-csv/examples/books_sample.csv)
